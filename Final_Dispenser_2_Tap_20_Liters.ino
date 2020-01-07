@@ -1,6 +1,6 @@
 /*
 ########################################################################################################################
-#                                <<   SMART SINGLE TAP BUTTON BASED DISPENSER  >>                                      #
+#                                <<   SMART TWO TAP 20 LITER PUSH BUTTON BASED DISPENSER  >>                           #
 # Developer:Nilesh Vyas                                                                                                #
 #                                                                                                                      #
 #                                                                                                                      #
